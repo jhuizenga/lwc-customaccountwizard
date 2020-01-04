@@ -22,7 +22,7 @@
     cd lwc-recipes
     ```
 
-4. Create a scratch org and provide it with an alias (**lwc-recipes** in the command below):
+4. Create a scratch org and provide it with an alias (**lwc-customaccountwizard** in the command below):
 
     ```
     sfdx force:org:create -s -f config/project-scratch-def.json -a lwc-customaccountwizard
