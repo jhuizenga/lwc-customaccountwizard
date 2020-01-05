@@ -39,5 +39,3 @@
     ```
     sfdx force:org:open
     ```
-
-
